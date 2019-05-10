@@ -1,3 +1,12 @@
+# Passport-intro
+Introduction to using passport for authentication.  My goal is to include the minimum steps to creating a website from scratch using node, express, and passport.
+
+For more info, see:
+* https://www.npmjs.com/package/express
+* https://www.npmjs.com/package/express-generate
+* http://www.passportjs.org/docs/google/
+
+
 # First steps
 ## Setup
 Do the following command-line steps to set up a project in the folder "ab" (which I'll use repeatedly throughout, but you can of course call it anything).  This will set up the basic node project & the express web server:
